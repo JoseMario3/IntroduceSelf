@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4839724C2B5A460600D80991 /* IOS Prework.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4839724B2B5A460600D80991 /* IOS Prework.gif */; };
 		4877A07C2B4CCA4500D1A4CF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4877A07B2B4CCA4500D1A4CF /* AppDelegate.swift */; };
 		4877A07E2B4CCA4500D1A4CF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4877A07D2B4CCA4500D1A4CF /* SceneDelegate.swift */; };
 		4877A0802B4CCA4500D1A4CF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4877A07F2B4CCA4500D1A4CF /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4839724B2B5A460600D80991 /* IOS Prework.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "IOS Prework.gif"; sourceTree = "<group>"; };
 		4877A0782B4CCA4500D1A4CF /* IntroduceStudent.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IntroduceStudent.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4877A07B2B4CCA4500D1A4CF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4877A07D2B4CCA4500D1A4CF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				4877A0842B4CCA4700D1A4CF /* Assets.xcassets */,
 				4877A0862B4CCA4700D1A4CF /* LaunchScreen.storyboard */,
 				4877A0892B4CCA4700D1A4CF /* Info.plist */,
+				4839724B2B5A460600D80991 /* IOS Prework.gif */,
 			);
 			path = IntroduceStudent;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4839724C2B5A460600D80991 /* IOS Prework.gif in Resources */,
 				4877A0882B4CCA4700D1A4CF /* LaunchScreen.storyboard in Resources */,
 				4877A0852B4CCA4700D1A4CF /* Assets.xcassets in Resources */,
 				4877A0832B4CCA4500D1A4CF /* Main.storyboard in Resources */,
